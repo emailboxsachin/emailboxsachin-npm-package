@@ -1,0 +1,19 @@
+{
+  "name": "@emailboxsachin/emailboxsachin-npm-package",
+  "version": "1.0.0",
+  "description": "npm-package to know how to create npm package for private usage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emailboxsachin/emailboxsachin-npm-package.git"
+  },
+  "author": "sachin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emailboxsachin/emailboxsachin-npm-package/issues"
+  },
+  "homepage": "https://github.com/emailboxsachin/emailboxsachin-npm-package#readme"
+}
